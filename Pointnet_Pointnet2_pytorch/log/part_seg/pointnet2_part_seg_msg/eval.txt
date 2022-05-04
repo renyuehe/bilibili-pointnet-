@@ -1,0 +1,54 @@
+2020-07-22 10:40:26,126 - Model - INFO - PARAMETER ...
+2020-07-22 10:40:26,126 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2020-07-22 10:40:26,157 - Model - INFO - The number of test data is: 2874
+2020-07-22 10:44:17,667 - Model - INFO - eval mIoU of Airplane       0.830017
+2020-07-22 10:44:17,667 - Model - INFO - eval mIoU of Bag            0.803660
+2020-07-22 10:44:17,667 - Model - INFO - eval mIoU of Cap            0.855865
+2020-07-22 10:44:17,667 - Model - INFO - eval mIoU of Car            0.788931
+2020-07-22 10:44:17,667 - Model - INFO - eval mIoU of Chair          0.907261
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Earphone       0.681580
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Guitar         0.912999
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Knife          0.868840
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Lamp           0.834163
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Laptop         0.956712
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Motorbike      0.732106
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Mug            0.938860
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Pistol         0.820834
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Rocket         0.614115
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Skateboard     0.760032
+2020-07-22 10:44:17,668 - Model - INFO - eval mIoU of Table          0.828329
+2020-07-22 10:44:17,668 - Model - INFO - Accuracy is: 0.94265
+2020-07-22 10:44:17,668 - Model - INFO - Class avg accuracy is: 0.87343
+2020-07-22 10:44:17,668 - Model - INFO - Class avg mIOU is: 0.82089
+2020-07-22 10:44:17,668 - Model - INFO - Inctance avg mIOU is: 0.85308
+2020-08-07 02:16:40,526 - Model - INFO - PARAMETER ...
+2020-08-07 02:16:40,543 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2020-08-07 02:16:40,663 - Model - INFO - The number of test data is: 2874
+2020-08-07 02:27:59,960 - Model - INFO - PARAMETER ...
+2020-08-07 02:27:59,960 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2020-08-07 02:28:00,012 - Model - INFO - The number of test data is: 2874
+2020-08-07 02:45:14,217 - Model - INFO - eval mIoU of Airplane       0.830015
+2020-08-07 02:45:15,173 - Model - INFO - eval mIoU of Bag            0.815654
+2020-08-09 15:31:36,037 - Model - INFO - PARAMETER ...
+2020-08-09 15:31:36,037 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2020-08-09 15:31:36,068 - Model - INFO - The number of test data is: 2874
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Airplane       0.830039
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Bag            0.828971
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Cap            0.847986
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Car            0.789881
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Chair          0.906850
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Earphone       0.685537
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Guitar         0.909740
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Knife          0.869554
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Lamp           0.827722
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Laptop         0.955727
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Motorbike      0.730300
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Mug            0.956347
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Pistol         0.824532
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Rocket         0.619482
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Skateboard     0.762555
+2020-08-09 15:35:32,380 - Model - INFO - eval mIoU of Table          0.831289
+2020-08-09 15:35:32,380 - Model - INFO - Accuracy is: 0.94263
+2020-08-09 15:35:32,380 - Model - INFO - Class avg accuracy is: 0.87388
+2020-08-09 15:35:32,380 - Model - INFO - Class avg mIOU is: 0.82353
+2020-08-09 15:35:32,381 - Model - INFO - Inctance avg mIOU is: 0.85349
